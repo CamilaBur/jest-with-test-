@@ -35,7 +35,7 @@ const fromYenToPound = function(yeni) {
 //     return convertionYen_Pound;
 // }
 
-// export the function to be used on other files 
+// export the function to be used on other files
 // (similar to the keyword `export` when using webpack)
 module.exports = {
     fromEuroToDollar,
